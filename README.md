@@ -6,7 +6,7 @@ I care about the details behind a good interface: clear navigation, responsive p
 
 I've worked on storefronts, admin dashboards, and a wallpaper platform where people can explore and interact with content. My work has involved connecting interfaces to Firebase and API routes, as well as improving performance and SEO.
 
-I explore UI/UX ideas in Stitch before bringing them into code. I also use GA4 and Google Search Console to understand how people find and use a site. When I'm learning or solving a problem, I use Codex and other AI tools to help me explore ideas and move forward.
+I explore UI/UX ideas in Stitch before bringing them into code.I use AI tools, including Codex, as part of my coding workflow to explore solutions, debug problems, and learn as I build.
 
 ---
 
