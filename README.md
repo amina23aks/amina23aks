@@ -21,4 +21,6 @@ I use AI tools regularly in my development workflow to explore ideas, work throu
 
 ### A bit about me
 
-♟️ Outside of coding, I enjoy playing chess and solving logic problems.
+- ♟️ Outside of coding, I enjoy playing chess and solving logic problems.
+- 🌱 I'm curious and like learning new things by building them.
+
