@@ -1,7 +1,11 @@
-# 💫 About Me:
-# Hi, I'm Amina 👋<br><br>I'm a frontend developer working with Next.js, React, TypeScript, and Tailwind CSS. I enjoy building clear, responsive interfaces and learning by turning ideas into working products.<br><br>My projects include online stores and a wallpaper platform. I've worked with Firebase for application data and authentication, and I've used Google Analytics 4 and Google Search Console to understand and improve websites.
+## Hey, I'm Amina 👋
 
+I build web experiences that are useful, easy to navigate, and enjoyable to use. I like working through the details behind an interface: how people find what they need, how a page feels on different screens, and how the whole experience holds together.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+My work has taken me from interactive pages and community features to storefronts and admin dashboards. I mostly build with Next.js, React, TypeScript, and Tailwind CSS, and I've worked with Firebase, APIs, and Cloudinary to connect interfaces to real data and media.
 
+I care about what happens after a page is built, too. I work on responsiveness, performance, and SEO, and use GA4 and Google Search Console to understand how a site is being found and used. I also explore UI ideas in Stitch before bringing them into code.
+
+I'm curious by nature and enjoy solving problems and learning new tools. I use Codex and other AI tools as part of my development process to explore ideas, work through challenges, and move projects forward.
+
+Away from the screen, I enjoy playing chess. ♟️
