@@ -1,11 +1,24 @@
-## Hey, I'm Amina 👋
+## Hey there 👋
 
-I build web experiences that are useful, easy to navigate, and enjoyable to use. I like working through the details behind an interface: how people find what they need, how a page feels on different screens, and how the whole experience holds together.
+I'm Amina, a frontend developer who enjoys turning ideas into useful, thoughtful web experiences.
 
-My work has taken me from interactive pages and community features to storefronts and admin dashboards. I mostly build with Next.js, React, TypeScript, and Tailwind CSS, and I've worked with Firebase, APIs, and Cloudinary to connect interfaces to real data and media.
+I like working on the details that make a website feel right: clear navigation, responsive pages, interactive features, and interfaces that are easy to use.
 
-I care about what happens after a page is built, too. I work on responsiveness, performance, and SEO, and use GA4 and Google Search Console to understand how a site is being found and used. I also explore UI ideas in Stitch before bringing them into code.
+I've worked on storefronts, admin dashboards, and a wallpaper platform with community features. I also pay attention to performance and SEO, and use GA4 and Google Search Console to learn how people find and use a site.
 
-I'm curious by nature and enjoy solving problems and learning new tools. I use Codex and other AI tools as part of my development process to explore ideas, work through challenges, and move projects forward.
+I enjoy exploring UI ideas in Stitch and bringing them into code. I use Codex and other AI tools to research, solve problems, and experiment with new approaches. What matters to me is understanding what I build and making it better.
 
-Away from the screen, I enjoy playing chess. ♟️
+---
+
+### Tools & tech
+
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS
+- **Data & media:** Firebase, APIs, Cloudinary
+- **Design & improvement:** Stitch, responsive design, SEO, GA4, Google Search Console
+
+---
+
+### A bit about me
+
+- ♟️ I enjoy playing chess and solving logic problems.
+- 🌱 I'm curious and like learning new things by building them.
