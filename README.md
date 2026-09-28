@@ -15,7 +15,7 @@ I use AI tools regularly in my development workflow to explore ideas, work throu
 - **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS
 - **Data & media:** Firebase, API routes, Cloudinary
 - **Site improvement:** responsive design, performance, SEO, GA4, Google Search Console
-- **AI-assisted development:** ChatGPT, Codex
+- **AI-assisted development:** ChatGPT, Codex , stitch ...
 
 ---
 
